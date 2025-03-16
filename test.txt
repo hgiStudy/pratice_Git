@@ -1,0 +1,4 @@
+# pratice_Git
+平常练习git操作
+Git is a version control system.
+Git is free software
